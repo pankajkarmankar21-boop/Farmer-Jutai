@@ -75,4 +75,3 @@ supabase/
 - Move admin password check to a server-side API route instead of a public env var
 - Tighten RLS policies to be per-user instead of `using (true)`
 - Add image compression before upload (large phone photos can be slow on rural networks)
-- 
